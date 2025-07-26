@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -30,7 +29,7 @@ I am an Artificial Intelligence and Data Science student with a deep passion for
 
 What truly excites me is the journey from a complex dataset to a clear, actionable insight or a fully functional intelligent system. That's why I am dedicated to building things that make a difference.
 
-- 🎓 I'm currently pursuing my **B.Tech in Artificial Intelligence & Data Science** (Final Year).
+- 🎓 I'm currently pursuing my **B.Tech in Artificial Intelligence & Data Science** (Class of 2026).
 
 - 💡 I'm the innovator behind an **AI-Based Smart Medication Dispensing System**, for which I've filed a patent.
 
