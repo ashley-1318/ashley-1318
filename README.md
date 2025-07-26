@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fspace-code&psig=AOvVaw1CqGwsOm-cn3uJRzgpmzxi&ust=1753601213347000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDvz97_2Y4DFQAAAAAdAAAAABAE" width="200"/>
+  <img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/dfec7f41-a2c6-468e-98a3-3f813cb84fa4" />
+" width="200"/>
 </div>
 
 <div id="badges" align="center">
