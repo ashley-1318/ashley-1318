@@ -3,8 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/ashley-josco-c" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://ashley-portfolio-62b1b.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Portfolio Badge"/>
   </a>
   <a href="mailto:ashleyjosco18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -26,7 +29,7 @@ I am an Artificial Intelligence and Data Science student with a deep passion for
 
 What truly excites me is the journey from a complex dataset to a clear, actionable insight or a fully functional intelligent system. That's why I am dedicated to building things that make a difference.
 
-- 🎓 I'm currently pursuing my **B.Tech in Artificial Intelligence & Data Science** (Class of 2026).
+- 🎓 I'm currently pursuing my **B.Tech in Artificial Intelligence & Data Science** (Final Year).
 
 - 💡 I'm the innovator behind an **AI-Based Smart Medication Dispensing System**, for which I've filed a patent.
 
